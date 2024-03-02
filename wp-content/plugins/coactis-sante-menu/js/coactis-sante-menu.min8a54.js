@@ -1,0 +1,1 @@
+!function(r){r("#menu-burger-trigger").on("click touchstart",function(e){return r("#menu-burger-icon").toggleClass("clicked"),r("#menu-burger").toggleClass("hidden"),!1})}(jQuery);
